@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Đồng Minh Phú | Modern Expert Portfolio
+
+Website cá nhân chuyên nghiệp dành cho Kiến trúc sư và Chuyên gia Xây dựng.
+
 
 ## Getting Started
 
